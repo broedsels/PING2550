@@ -1,4 +1,3 @@
-# ATtuino
-The smaller Arduino project board
+# PING2550
 
-Based around an ATtiny and a tiny programmer.
+Not an Arduino but a trusty Microchip PIC 18F25k50 is running this board.
