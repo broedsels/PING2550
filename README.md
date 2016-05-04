@@ -4,6 +4,6 @@
 
 Not an Arduino but a trusty Microchip PIC 18F25k50 is running this board.
 
-![Pinguino](https://github.com/broedsels/PING2550/html_logo.png)
+![Pinguino](https://github.com/broedsels/PING2550/blob/master/html_logo.png)
 
 PING2550 is tested with Pinguino IDE rev999
